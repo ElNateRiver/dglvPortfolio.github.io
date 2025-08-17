@@ -30,10 +30,8 @@
 - Serve as the primary point of contact for technical issues/updates related to advertising campaigns.
 
 **Business Intelligence Officer & Web Developer - YellowPages UK/Hibu (_Jun 2012 - Jun 2014_)**
-- Exceeded driver recruitment quota of at least 120% from original target (3% of the total number of leads assigned for reached out, to 5%)
-- Was able to smoothly onboard properly 100% of the drivers recruited
-- Updated 100% of touched records of driver records and logs in the database.
-- Contributed to reorganization of process flow by introducing an internal Kanban to record and classify all types of driver interaction within the recruitment process
+- Manage data retrieval and analysis within the organization by utilizing my expertise in MS Excel, SQL Database and Power BI to produce reports that help decision-makers understand trends, identify opportunities, and address challenges.
+- Build Basic and Premium Website per ticket assigned/requested from YellowPages listed clients. 
 
 ## Projects & Certifications on Web Related Projects
 ### Progressive Personal Portfolio
