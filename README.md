@@ -33,7 +33,7 @@
 - Manage data retrieval and analysis within the organization by utilizing my expertise in MS Excel, SQL Database and Power BI to produce reports that help decision-makers understand trends, identify opportunities, and address challenges.
 - Build Basic and Premium Website per ticket assigned/requested from YellowPages listed clients. 
 
-## Projects & Certifications on Web Related Projects
+## Recent Certifications and Web Related Projects
 ### Progressive Personal Portfolio
 [Publication](https://github.com/ElNateRiver)
 ### Google Cloud Boost Certification
