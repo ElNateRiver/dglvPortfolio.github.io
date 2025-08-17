@@ -24,7 +24,7 @@
 - Handle's all type of communication channels (email/chat/phone) to help resolve the season's urgent issues that needs resolution as soon as possible.
 - Certified SME for Google Hardware, Wallet/Pay and Play products.
 
-**Advertising Consultant, YellowPages AU - TTec (_Jun 2014 - Jun 2015 _)**
+**Advertising Consultant, YellowPages AU - TTec (_Jun 2014 - Jun 2015_)**
 - Plan, coordinate, and create advertising design/materials for Yellow Pages AU clients website, using Adobe Photoshop and Illustrator and Yellow Pages proprietary software for Books and Online/Website advertisement.
 - Develop and recommend digital solutions, including websites, SEO, social media integration, and AdWords campaigns.
 - Serve as the primary point of contact for technical issues/updates related to advertising campaigns.
