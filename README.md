@@ -35,7 +35,8 @@
 
 ## Recent Certifications and Web Related Projects
 ### Progressive Personal Portfolio
-[Publication](https://github.com/ElNateRiver)
+[Publication](https://github.com/ElNateRiver) GitHub main.
+[Publication](https://elnateriver.github.io/expandPortfolio/) Expanded Sample Portfolio Website.
 ### Google Cloud Boost Certification
 [Publication](https://www.cloudskillsboost.google/public_profiles/19555c9a-2f5b-44bd-b714-f7f4)
 ### Canva BPO Sample Portfolio
