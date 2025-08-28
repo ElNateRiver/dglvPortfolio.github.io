@@ -6,7 +6,7 @@
 ## Education
 - Bachelor of Science in Information Technology | Saint Louis University (Baguio City, PH) (_2009_)						       		
 
-## Work Experience
+## Corporate Work Experience
 **CDL Driver Recruitment Specialist - (_Jan 2024 – Feb 2025_)**
 - Exceeded driver recruitment quota of at least 120% from original target (3% of the total number of leads assigned for reach-out, to 5%)
 - Was able to smoothly onboard properly 100% of the drivers recruited
