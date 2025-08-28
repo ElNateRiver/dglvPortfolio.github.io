@@ -1,6 +1,7 @@
 # Web Designer/Developer | Data Analyst | Tech Support & Customer Service Specialist
 
-#### Technical Skills: Markdown, HTML, CSS, JavaScript, Python, Analytics, Dashboard Creation and Automation, Graphic Design, Video Editing
+#### Technical Skills: Markdown, HTML, CSS, JavaScript, SEO, Python, Analytics, Dashboard Creation and Automation, Graphic Design, Video Editing
+#### Soft Skills: Excellent English Comms, Project & Time Management, Leadership (Supervising & SME)
 
 ## Education
 - Bachelor of Science in Information Technology | Saint Louis University (Baguio City, PH) (_2009_)						       		
