@@ -10,7 +10,7 @@
 **CDL-A Recruitment Specialist - Hauling Express & Mega Trans (_Jan 2024 – Feb 2025_)**
 - Exceeded driver recruitment quota of at least 120% from original target (3% of the total number of leads assigned for reach-out, to 5%)
 - Was able to smoothly onboard properly 100% of the drivers recruited
-- Updated 100% of touched records of driver records and logs in the database.
+- Updated 100% of touched driver records and logs in the database.
 - Contributed to reorganization of process flow by introducing an internal Kanban to record and classify all types of driver interaction within the recruitment process
 
 **GCP Accounts & Security Specialist - Telus Int'l (_Aug 2018 - Nov 2023_)**
